@@ -1,0 +1,16 @@
+{
+  "name": "AWSDynamoDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Insert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.807.0",
+    "dotenv": "^8.2.0"
+  }
+}
